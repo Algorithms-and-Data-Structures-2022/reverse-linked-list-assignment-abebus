@@ -1,4 +1,4 @@
-# Assignment 06. Reverse Linked List
+# C++ auto-graded assignment template
 
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
@@ -11,7 +11,7 @@
 
 ## 2. Описание задания
 
-Реализуйте операцию переворачивания связного списка итеративным и рекурсивным методами.
+Подробное описание задания: требования, входные и выходные данные, баллы.
 
 ## 3. Инструкции
 

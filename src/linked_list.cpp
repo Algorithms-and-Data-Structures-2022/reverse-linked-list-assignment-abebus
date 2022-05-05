@@ -1,7 +1,5 @@
 #include "assignment/linked_list.hpp"
 
-#include <utility> // swap
-
 namespace assignment {
 
   /**
